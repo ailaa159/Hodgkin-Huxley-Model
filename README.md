@@ -31,6 +31,9 @@ At every time step, the simulation:
 3. Updates `V`, `m`, `h`, and `n` using Euler integration (`x += dx * dt`)
 4. Records the voltage for plotting
 
+   <img width="634" height="525" alt="image" src="https://github.com/user-attachments/assets/3f270593-7a01-4272-a157-0ff7d81638ea" />
+
+
 ## Parameters
 
 | Symbol | Meaning | Value |
